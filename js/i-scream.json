@@ -46,7 +46,7 @@
         "chocolate fudge",
         "whipped cream"
       ],
-      "image": "dark-chocolate.svg"
+      "image": "divine-dark-chocolate.svg"
     },
     {
       "name": "Caramel Cookie Delight",
@@ -57,7 +57,7 @@
         "cookie dough chunks",
         "toasted almonds"
       ],
-      "image": "caramel-cookie.svg"
+      "image": "caramel-cookie-delight.svg"
     }
   ]
 }
