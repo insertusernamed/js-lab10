@@ -18,7 +18,7 @@
             const section = document.querySelector("section");
             /* STEP 3: Store the URL of a JSON file in a variable */
             const requestURL =
-                "https://raw.githubusercontent.com/insertusernamed/js-lab10/main/js/i-scream.json";
+                "https://insertusernamed.github.io/js-lab10/js/i-scream.json";
             /* STEP 4: Create a new XHR object */
             const request = new XMLHttpRequest();
             /* STEP 5: Open a new request using the open() method */
@@ -65,7 +65,7 @@
                     // STEP 10e: Set the textContent property for each of the above elements (except the UL), based on the JSON content
                     img.setAttribute(
                         "src",
-                        "https://github.com/insertusernamed/js-lab10/tree/main/images" +
+                        "https://insertusernamed.github.io/js-lab10/images/" +
                             topFlavors[i].image
                     );
                     img.setAttribute("alt", topFlavors[i].name);
